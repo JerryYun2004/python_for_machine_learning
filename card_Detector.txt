@@ -1,5 +1,0 @@
-#Test setup
-
-#Stage 1
-    Check if commit works
-    
